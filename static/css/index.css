@@ -1,0 +1,31 @@
+body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.links-table {
+    border-collapse: separate;
+    width: 70%;
+    margin: 10px auto; 
+    border-spacing: 10px; 
+}
+
+.links-td {
+
+    padding: 0px;
+    /* margin: 100px;    */
+    
+    text-align: center;
+    width: 25%;
+}
+
+.links-td button {
+    width: 100%; /* Make button fill the entire cell width */
+    padding: 5px; /* Adjust padding inside the button as needed */
+}
+
+
+.body_content{
+    margin: 10px auto; 
+    width: 70%;
+
+}
